@@ -1,16 +1,16 @@
 {
-"name": "222loggame",
-"theme": "222loggame",
-"version": "6.8.10",
-"description": "222loggame ทางเข้าหลักเว็บบาคาร่าเว็บตรง ไม่ผ่านเอเย่นต์ รับเครดิตฟรี",
-"keywords": [
-"222loggame",
-"222loggame เครดิตฟรี",
-"222loggame ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/222loggame",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "222loggame",
+  "theme": "222loggame",
+  "version": "6.9.0",
+  "description": "222loggame ทางเข้าหลักเว็บบาคาร่าเว็บตรง ไม่ผ่านเอเย่นต์ รับเครดิตฟรี",
+  "keywords": [
+    "222loggame",
+    "222loggame เครดิตฟรี",
+    "222loggame ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/222loggame",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
